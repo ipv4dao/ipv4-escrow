@@ -1,4 +1,4 @@
-# IPv4-Escrow
+# IPv4-Escrow - Not Properly Tested yet - please do not use!
 The IPv4-Escrow is a Smart Contract designed to act as an escrow service for IPv4 subnet Buy/Sell transactions. It includes three main roles:
 
 - Seller: The party that sells the IPv4 subnet to the buyer.
